@@ -1,3 +1,4 @@
+<img width="1584" height="672" alt="AI-Transformation-Playbook-Shinnawy" src="https://github.com/user-attachments/assets/d62ba4e2-b1c1-42e7-ab6f-468ea99d8b55" />
 # AI Business Transformation Playbook
 ## The Shinnawy AI Transformation Model
 
