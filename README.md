@@ -102,8 +102,8 @@ Artificial Intelligence should amplify human expertise, accelerate decision-maki
 
 ## Connect
 
-LinkedIn: [Add LinkedIn URL]
+LinkedIn: (https://www.linkedin.com/in/yehia-el-shinnawy/)
 
-Website: [Add Website URL]
+Website: 
 
-Email: [Add Professional Contact]
+Email: melshinnawy@live.com
