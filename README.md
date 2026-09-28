@@ -1,5 +1,21 @@
 # AI Business Transformation Playbook
+## The Shinnawy AI Transformation Model
 
+Strategy
+      ↓
+Human Capital
+      ↓
+Innovation
+      ↓
+Navigation
+      ↓
+Networks
+      ↓
+Adoption
+      ↓
+Wins
+
+AI Success = S × H × I × N × N × A × W
 ## Overview
 
 The AI Business Transformation Playbook is a practical knowledge repository designed to help executives, business leaders, consultants, marketers, and transformation professionals leverage Artificial Intelligence to drive measurable business outcomes.
