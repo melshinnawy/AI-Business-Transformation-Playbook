@@ -28,6 +28,19 @@ This repository combines strategic frameworks, implementation roadmaps, executiv
 To bridge the gap between emerging AI technologies and real-world business value by providing actionable frameworks that organizations can implement immediately.
 
 ---
+# Signature Methodology
+
+The AI Transformation Model by Shinnawy™ is an executive framework for helping organizations progress through five stages of AI maturity:
+
+1. Readiness
+2. Adoption
+3. Optimization
+4. Governance
+5. Scale
+
+➡️ Read the full model in:
+
+frameworks/AI-Transformation-Model-by-Shinnawy.md
 
 ## Core Focus Areas
 
